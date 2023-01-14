@@ -1,4 +1,4 @@
-# Instructions for "iranhpi" Stata command 
+# Instructions for Using "iranhpi" Stata Command 
 ### Author: Peyman Shahidi
 #### Last update: Jan 14, 2023
 
