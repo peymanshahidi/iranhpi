@@ -21,3 +21,8 @@ For questions, comments, or feedbacks please contact me at: shahidi.peyman96@gma
 #### References:
 1. Bailey, M. J., Muth, R. F., & Nourse, H. O. (1963). A Regression Method for Real Estate Price Index Construction. *Journal of the American Statistical Association*, 58(304), 933-942.
 2. Case, K.E., Shiller, R.J. (1987). Prices of Single-family Homes Since 1970: New Indexes for Four Cities. *New England Economic Review*. Sept./Oct. 45-56.
+
+
+
+
+Let's say I updated some of the stuff I'd written here. Let's see how I can work with this.
